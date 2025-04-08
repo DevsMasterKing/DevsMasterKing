@@ -1,3 +1,12 @@
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme-"dark" data-ally-animated-image="system"
+  data-ally-link-underlines="true" data-js-focus-visible data-turbo-loaded>
+
+<head>
+
+</head>
+
+<body class="logged-in env-production page-responsive page-profile"
+  style="overflow-wrap: break-word; --dialog-scrollgutter: 12px;">
   <div data-turbo-body="" class="logged-in env-production page-responsive page-profile" style="word-wrap: break-word;">
 
 
@@ -642,3 +651,6 @@
                     </article>
                   </div>
                 </div>
+</body>
+
+</html>
