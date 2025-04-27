@@ -5,7 +5,7 @@
   <div class="vcard-names-container float-left js-profile-editable-names col-12 py-3">
                     <h1 class="vcard-names ">
                       <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">
-                        Hi there, I am Andrii Tverdokhlib.
+                        Hi there, I am a senior software developer.
                       </span>
                         <span data-target="animated-image.imageContainer" style="display: inline-block;">
                                   <img data-target="animated-image.replacedImage" alt="wave.gif" 
